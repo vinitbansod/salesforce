@@ -1,6 +1,6 @@
 This is My first page
 
-class helloGit{
+class jonhjo helloGit{
 	main(){
 	
 }
